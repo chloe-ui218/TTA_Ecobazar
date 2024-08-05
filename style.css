@@ -6,7 +6,23 @@
 .bg-main{
     background-color: #00B207;
 }
+.bg-orange{
+    background-color: #FF7A00;
+}
+.text-main{
+    color: #00B207;
+}
 .bg-black-main{
     background-color: #333333;
     color: #999999;
+}
+.big-bannar{
+    background-image: url(./big\ img.jpg);
+}
+
+.small-bannar-1{
+    background-image: url(./BG\ \(1\).png);
+}
+.small-bannar-2{
+    background-image: url(./BG\ 2.png);
 }
