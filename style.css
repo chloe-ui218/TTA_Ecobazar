@@ -26,3 +26,11 @@
 .small-bannar-2{
     background-image: url(./BG\ 2.png);
 }
+.w-15{
+    width: 15%;
+}
+@media screen and (max-width: 768px){
+    .w-15{
+        width: 30%;
+    }
+}
