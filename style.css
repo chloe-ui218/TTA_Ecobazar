@@ -20,15 +20,17 @@
     background-image: url(./type-1.png);
 }
 .type-2{
-    background-image: url(./type-2.png);
+    background-image: url(./type-3.png);
 }
 .type-3{
-    background-image: url(./type-3.png);
+    background-image: url(./type-2.png);
 }
 .big-bannar{
     background-image: url(./big\ img.jpg);
 }
-
+.text-orange{
+    color: #FF7A00;
+}
 .small-bannar-1{
     background-image: url(./BG\ \(1\).png);
 }
