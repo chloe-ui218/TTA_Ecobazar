@@ -17,25 +17,25 @@
     color: #999999;
 }
 .type-1{
-    background-image: url(./type-1.png);
+    background-image: url(./Imgs/type-1.png);
 }
 .type-2{
-    background-image: url(./type-3.png);
+    background-image: url(./Imgs/type-3.png);
 }
 .type-3{
-    background-image: url(./type-2.png);
+    background-image: url(./Imgs/type-2.png);
 }
 .big-bannar{
-    background-image: url(./big\ img.jpg);
+    background-image: url(./Imgs/big\ img.jpg);
 }
 .text-orange{
     color: #FF7A00;
 }
 .small-bannar-1{
-    background-image: url(./BG\ \(1\).png);
+    background-image: url(./Imgs/BG\ \(1\).png);
 }
 .small-bannar-2{
-    background-image: url(./BG\ 2.png);
+    background-image: url(./Imgs/BG\ 2.png);
 }
 .w-15{
     width: 15%;
@@ -46,12 +46,32 @@
 }
 
 .discount-container{
-    background-image: url(./big\ bannar-2.jpg);
+    background-image: url(./Imgs/big\ bannar-2.jpg);
     height: 300px;
 }
+/* contact css*/
+.contact-main-header{
+    background-image: url(./Imgs/Breadcrumbs.png);
+    height: 100px;
+}
+.contact-main-map{
+    background-image: url(./Imgs/Map\ Image\ \(1\).png);
+    height: 300px;
+}
+
+.contact-grid{
+    grid-template-columns: auto auto;
+}
+
 @media screen and (max-width: 768px){
     .w-15{
         width: 30%;
+    }
+    .contact-main-header{
+        display: none;
+    }
+    .contact-main-map{
+       display: none;
     }
 }
 .deals-container span{
@@ -67,26 +87,26 @@
     color: #00B207;
 }
 .insta-1{
-    background-image: url(./Instagram\ Post-1.png);
+    background-image: url(./Imgs/Instagram\ Post-1.png);
     height: 160px;
 }
 .insta-2{
-    background-image: url(./Instagram\ Post-2.png);
+    background-image: url(./Imgs/Instagram\ Post-2.png);
     height: 160px;
 }
 .insta-3{
-    background-image: url(./Instagram\ Post-3.png);
+    background-image: url(./Imgs/Instagram\ Post-3.png);
     height: 160px;
 }
 .insta-4{
-    background-image: url(./Instagram\ Post-4.png);
+    background-image: url(./Imgs/Instagram\ Post-4.png);
     height: 160px;
 }
 .insta-5{
-    background-image: url(./Instagram\ Post-5.png);
+    background-image: url(./Imgs/Instagram\ Post-5.png);
     height: 160px;
 }
 .insta-6{
-    background-image: url(./Instagram\ Post-6.png);
+    background-image: url(./Imgs/Instagram\ Post-6.png);
     height: 160px;
 }
