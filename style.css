@@ -115,6 +115,11 @@
     height: 100px;
     background-repeat: no-repeat;
 }
+.single-blog-main-header{
+    background-image: url(./Imgs/Breadcrumbs.png);
+    height: 100px;
+    background-repeat: no-repeat;
+}
 
 
 
