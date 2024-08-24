@@ -120,6 +120,10 @@
     height: 100px;
     background-repeat: no-repeat;
 }
+.blog-discount-container{
+    background-image: url(./Imgs/BGG-1.png);
+    height: 200px;
+}
 
 
 
